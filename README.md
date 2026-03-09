@@ -8,7 +8,7 @@
 
 🔐 Cybersecurity & Network Security Engineer
 🛡 Penetration Tester | SOC & Blue Team Analyst
-🎓 Cybersecurity Lecturer – Al-Razi University
+🎓 Cybersecurity Trainer
 🌍 Yemen
 
 Cybersecurity engineer specializing in penetration testing, enterprise security operations, network defense, and DevSecOps.
@@ -142,16 +142,6 @@ Al-Razi University
 2021 – 2024
 
 ---
-
-📊 GitHub Statistics
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/></p>---
-
-📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>---
 
 🌐 Connect With Me
 
